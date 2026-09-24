@@ -15,6 +15,10 @@ npm i @openzeppelin/contracts@4.5.0
 
 #under the /home/ubuntu  directory...
 
+
+
+# please note that I installed this at the /home/ubuntu vs the /home/ubuntu/test  that i an directing here...
+
 mkdir test
 cd test
 npx hardhat init
